@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Urmila Satalkar</h1>
 <h3 align="center">A passionate Data Science I excel in Data Science, adept at optimizing processes for optimal performance. My dedication to achieving superior results is evident in my proven track record.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw3hYDW_37M3X3tSosPPoETJ&ust=1704478980488000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjhppWtxIMDFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw3hYDW_37M3X3tSosPPoETJ&ust=1704478980488000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjhppWtxIMDFQAAAAAdAAAAABAQ](https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmilasatalkar&label=Profile%20views&color=0e75b6&style=flat" alt="urmilasatalkar" /> </p>
 
