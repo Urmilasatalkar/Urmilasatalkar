@@ -13,7 +13,7 @@
 
 - 🤝 I am seeking assistance **in securing a data science position that aligns with my skill set.**
 
-- 💬 Ask me about **Python,ML,NLP,Mysql,HTML,CSS,Bootstrap**
+- 💬 Ask me about **Python, ML, NLP, Mysql, HTML, CSS, BootStrap**
 
 - 📫 How to reach me **urmilasatalkar2608@gmail.com**
 
