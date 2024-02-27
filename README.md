@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Urmila Satalkar</h1>
 <h3 align="center">A passionate Data Science I excel in Data Science, adept at optimizing processes for optimal performance. My dedication to achieving superior results is evident in my proven track record.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urmilasatalkar&label=Profile%20views&color=0e75b6&style=flat" alt="urmilasatalkar" /> </p>
+<p align="left"> <img src="https://giphy.com/embed/ko7twHhomhk8E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen<p><a href="https://giphy.com/gifs/code-ko7twHhomhk8E">via GIPHY</a></p>" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urmilasatalkar" alt="urmilasatalkar" /></a> </p>
 
